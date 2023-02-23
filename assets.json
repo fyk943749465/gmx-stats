@@ -1,0 +1,47 @@
+{
+  "client": {
+    "css": [
+      "/static/css/client.97ae8683.css"
+    ],
+    "js": [
+      "/static/js/client.4843d182.js"
+    ],
+    "map": [
+      "/static/css/client.97ae8683.css.map",
+      "/static/js/client.4843d182.js.map"
+    ],
+    "chunks": [
+      0
+    ]
+  },
+  "noentry": {
+    "png": [
+      "/favicon.png"
+    ],
+    "txt": [
+      "/robots.txt",
+      "/static/js/client.4843d182.js.LICENSE.txt"
+    ],
+    "svg": [
+      "/static/media/logo_GMX.ab1390cb.svg",
+      "/static/media/logo_GMX_dark.393971bf.svg",
+      "/static/media/logo_GMX_light.ced2d040.svg"
+    ],
+    "woff2": [
+      "/static/media/relative-bold-pro.27c9225c.woff2",
+      "/static/media/relative-book-pro.99b8a3eb.woff2"
+    ],
+    "woff": [
+      "/static/media/relative-bold-pro.b64cc288.woff",
+      "/static/media/relative-book-pro.fc1b5057.woff"
+    ],
+    "ttf": [
+      "/static/media/relative-bold-pro.cb95c2b7.ttf",
+      "/static/media/relative-book-pro.c52403f4.ttf"
+    ],
+    "eot": [
+      "/static/media/relative-bold-pro.d785e2df.eot",
+      "/static/media/relative-book-pro.6c6fdee7.eot"
+    ]
+  }
+}
